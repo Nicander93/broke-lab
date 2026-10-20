@@ -11,13 +11,13 @@
 仓库推到 Git 远程之后：
 
 ```bash
-npx skills add Nicander/broke-lab
+npx skills add Nicander93/broke-lab
 ```
 
 只装这一个 skill：
 
 ```bash
-npx skills add Nicander/broke-lab --skill broke-lab
+npx skills add Nicander93/broke-lab --skill broke-lab
 ```
 
 在本仓库根目录先确认能被发现，再安装：
